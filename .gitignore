@@ -4,3 +4,4 @@ __pycache__/
 *.zip
 *.Ds_Store
 *.parquet
+*.txt
