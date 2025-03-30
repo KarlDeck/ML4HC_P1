@@ -1,1 +1,3 @@
 - Requirements
+- Discuss if rounding up is really the way to go (ChatGpt disagrees at least)
+- Think about if current data imputation scheme is that great 
